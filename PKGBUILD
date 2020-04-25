@@ -7,7 +7,7 @@ pkgname='ros-melodic-angles'
 pkgver='1.9.13'
 _pkgver_patch=0
 arch=('any')
-pkgrel=2
+pkgrel=1
 license=('BSD')
 
 ros_makedepends=(
